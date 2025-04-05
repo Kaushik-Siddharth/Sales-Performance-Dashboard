@@ -12,7 +12,6 @@ To provide actionable insights for business growth by tracking key metrics such 
 
 ## 🛠️ Tools & Technologies
 - Python (Pandas)
-- SQL (for data extraction)
 - Tableau (for dashboard creation)
 - CSV files for data storage
 
